@@ -1,4 +1,4 @@
-## Python_Notes Details
+## Python_Notes_Details
 1. Python_Notes_001 - Data Types
 2. Python_Notes_002 - Variable Assignment
 3. Python_Notes_003 - Strings
