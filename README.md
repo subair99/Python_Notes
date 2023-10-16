@@ -1,4 +1,4 @@
-## Python_Notes
+## Python_Notes Details
 1. Python_Notes_001 - Data Types
 2. Python_Notes_002 - Variable Assignment
 3. Python_Notes_003 - Strings
@@ -8,3 +8,4 @@
 7. Python_Notes_007 - Dictionaries
 8. Python_Notes_008 - Built-in Modules
 9. Python_Notes_009 - Conditionals
+10. Python_Notes_010 - Loops
