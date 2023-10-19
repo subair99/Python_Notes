@@ -9,3 +9,4 @@
 8. Python_Notes_008 - Built-in Modules
 9. Python_Notes_009 - Conditionals
 10. Python_Notes_010 - Loops
+11. Python_Notes_011 - Functions
