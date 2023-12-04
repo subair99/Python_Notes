@@ -1,0 +1,8 @@
+Python was created by Guido van Rossum, and first released on February 20, 1991. 
+The name was derived from an old BBC television comedy called Monty Python's Flying Circus.
+One of the amazing features of Python is the fact that it is actually one person's work. 
+New languages are usually developed and published by large companies employing lots of professionals.
+Guido van Rossum did not develop and evolve all the Python components himself. 
+The speed with which Python has spread is a result of the work of thousands programmers, testers and users.
+Python is maintained by the Python Software Foundation, a non-profit membership organization and a community.
+They are devoted to developing, improving, expanding, and popularizing the Python language.

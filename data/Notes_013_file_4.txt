@@ -1,0 +1,11 @@
+Python has a real chance to hit first place in the TIOBE Index.
+It can become the most searched programming language in the world.
+The gap between the current number one and Python is only 0.7%.
+The other evidence of Python’s popularity is the results of the StackOverflow survey.
+66% of developers mentioned that they enjoyed working with the language.
+30% of engineers who have never before worked with Python like the language.
+Similar results are shown by Coding Game Developers Survey 2020.
+36% of respondents marked Python as their most favorite programming language.
+Although it is hard to count the exact number of Python developers operating in 2022.
+According to SlashData, in 2018, there were 8.2 million Python developers in the world.
+In the next three years, the infusion of 6 million new developers is expected.
